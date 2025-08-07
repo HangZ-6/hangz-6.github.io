@@ -59,7 +59,7 @@ Zhenjie Lu, **Hang Zhou**, Quan Chen
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2025</div><img src='images/EI-PIT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2024</div><img src='images/EI-PIT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 EI-PIT: A Parallel-in-Time Exponential Integrator Method for Transient Linear Circuit Simulation
@@ -74,7 +74,7 @@ EI-PIT: A Parallel-in-Time Exponential Integrator Method for Transient Linear Ci
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2025</div><img src='images/bbd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISEDA 2024</div><img src='images/bbd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 A Parallel Acceleration Technique based on Bordered Block Diagonal Matrix Reordering for Exponential Integrator Method
