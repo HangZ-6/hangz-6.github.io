@@ -21,16 +21,16 @@ I am currently pursuing a master's degree at Southern University of Science and 
 
 I obtained my Bachelor's degree in Microelectronics Science and Engineering from the school of microelectronics, Southern University of Science and Technology([南方科技大学深港微电子学院](https://sme.sustech.edu.cn/en)) and am now studying for a master's degree in Integrated Circuit Science and Engineering at the same institute, advised by Professor Quan Chen([陈全](https://faculty.sustech.edu.cn/?tagid=chenq3&iscss=1&snapid=1&orderby=date&go=2&lang=en)).
 
-My research interest includes: numerical simulation, parallel acceleration and model order reduction.
+My research interest includes: numerical integration, model order reduction, parallel acceleration, and sparse matrix solvers.
 
 
 # 🔥 News
 - *2025.06*: &nbsp;🎉🎉 Two papers are accepted by ICCAD2025
 - *2024.06*: &nbsp;🎉🎉 One paper is accepted by ICCAD2024
+- *2024.03*: &nbsp;🎉🎉 One paper is accepted by ISEDA2024
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -41,6 +41,9 @@ My research interest includes: numerical simulation, parallel acceleration and m
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
+
+
+
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
