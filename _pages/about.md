@@ -100,7 +100,7 @@ A Parallel Acceleration Technique based on Bordered Block Diagonal Matrix Reorde
 - *2023.09 - 2026.07 (expected)*, Master, School of Microelectronics, Southern University of Science and Technology
 - *2019.09 - 2023.07*, Undergraduate, School of Microelectronics, Southern University of Science and Technology
 
-# 💬 Patents
+# 💡 Patents
 **Quan Chen**, Dongen Yang, **Hang Zhou**, et al.
 - Acceleration Method for Transient Circuit Simulation
 - Chinese Patent [CN117556767A](https://patents.google.com/patent/CN117556767A/en), **Filed**, February 2024. (*third inventor*)
