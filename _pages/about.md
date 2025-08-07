@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently pursuing a master's degree at Southern University of Science and Technology, focusing on research in simulation EDA algorithms, high-performance numerical computing, and parallel computing.
 
-I obtained my Bachelor's degree in Microelectronics Science and Engineering from the school of microelectronics, Southern University of Science and Technology([南方科技大学深港微电子学院](https://sme.sustech.edu.cn/en)) and am now studying for a master's degree in Integrated Circuit Science and Engineering at the same institute, advised by Professor Quan Chen([陈全](https://faculty.sustech.edu.cn/?tagid=chenq3&iscss=1&snapid=1&orderby=date&go=2&lang=en)).
+I obtained my Bachelor's degree in Microelectronics Science and Engineering from the school of microelectronics, Southern University of Science and Technology([南方科技大学深港微电子学院](https://sme.sustech.edu.cn/en)) and am now studying for a master's degree in Integrated Circuit Science and Engineering at the same institute, advised by Professor **Quan Chen**([陈全](https://faculty.sustech.edu.cn/?tagid=chenq3&iscss=1&snapid=1&orderby=date&go=2&lang=en)).
 
 My research interest includes: numerical integration, model order reduction, parallel acceleration, and sparse matrix solvers.
 
@@ -30,10 +30,10 @@ My research interest includes: numerical integration, model order reduction, par
 - *2024.03*: &nbsp;🎉🎉 One paper is accepted by ISEDA2024
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2025</div><img src='images/moment-match.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><a href="https://2025.iccad.com/">ICCAD 2025</a></div><img src='images/moment-match.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-EI-TR: A Versatile Exponential Integrator Framework for Transient Analysis of Generic Nonlinear Circuit
+EI-TR: A Versatile Exponential Integrator Framework for Transient Analysis of Generic Nonlinear Circuit(**Accepted**)
 
 **Hang Zhou**, Zhenjie Lu, Quan Chen
 - Aime to accelerate nonlinear circuit simulation by simplifying the computation in Newton-Raphson iterations.
@@ -47,7 +47,7 @@ EI-TR: A Versatile Exponential Integrator Framework for Transient Analysis of Ge
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2025</div><img src='images/MF-MOR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-MF-MOR: Multi-Fidelity Model Order Reduction for Many-Port Linear Systems in Chip Power Modeling
+MF-MOR: Multi-Fidelity Model Order Reduction for Many-Port Linear Systems in Chip Power Modeling(**Accepted**)
 
 Zhenjie Lu, **Hang Zhou**, Quan Chen
 
@@ -62,7 +62,7 @@ Zhenjie Lu, **Hang Zhou**, Quan Chen
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2024</div><img src='images/EI-PIT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-EI-PIT: A Parallel-in-Time Exponential Integrator Method for Transient Linear Circuit Simulation
+[EI-PIT: A Parallel-in-Time Exponential Integrator Method for Transient Linear Circuit Simulation](https://doi.org/10.1145/3676536.3676785)
 
 **Hang Zhou**, Quan Chen
 
@@ -77,7 +77,7 @@ EI-PIT: A Parallel-in-Time Exponential Integrator Method for Transient Linear Ci
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISEDA 2024</div><img src='images/bbd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-A Parallel Acceleration Technique based on Bordered Block Diagonal Matrix Reordering for Exponential Integrator Method
+[A Parallel Acceleration Technique based on Bordered Block Diagonal Matrix Reordering for Exponential Integrator Method](https://doi.org/10.1109/ISEDA62518.2024.10617631)
 
 **Hang Zhou**, Quan Chen
 
