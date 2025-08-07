@@ -36,16 +36,27 @@ My research interest includes: numerical integration, model order reduction, par
 EI-TR: A Versatile Exponential Integrator Framework for Transient Analysis of Generic Nonlinear Circuit
 
 **Hang Zhou**, Zhenjie Lu, Quan Chen
-
-- Significantly simplified the nonlinear computation while improving numerical statbility.
-- Suitable for generic circuit simulation 
+- Aimed to accelerate nonlinear circuit simulation by simplifying the computation in Newton-Raphson iterations.
+- Proposed a novel moment-matching strategy, achieving up to 23x speedup while improving numerical statbility, compared to traditional BDF method.
+- Suitable for generic circuit simulation and straightforward for integration to commercial production code.
 </div>
 </div>
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2025</div><img src='images/MF-MOR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+MF-MOR: Multi-Fidelity Model Order Reduction for Many-Port Linear Systems in Chip Power Modeling
+
+Zhenjie Lu, **Hang Zhou**, Quan Chen
+
+- Extended traditional model order reduction to many-port linear systems using multi-fidelity modeling techniques.
+- Compensate the low fidelity reduced order model by Neural Network trained from high fidelity simulation results.
+- Achieved 27x speedup and Reduced model size by 47x on test cases with millons of nodes and thousands of ports, compared to traditional model order reduction techiniques.
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
