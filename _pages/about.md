@@ -114,7 +114,7 @@ Zhenjie Lu, **Hang Zhou**, Quan Chen
 
 
 # 💻 Internships
-- **Shenzhen BTD Technology Co., Ltd.**  
+- [**Shenzhen BTD Technology Co., Ltd.**](https://www.btd.tech/) 
   Shenzhen, China (2025.01 – 2025.07)  
-- **Dongfeng Nissan Passenger Vehicle Company**  
+- [**Dongfeng Nissan Passenger Vehicle Company**](https://www.dongfeng-nissan.com.cn/)  
   Guangzhou, China (2025.07 – 2025.08)
