@@ -30,7 +30,7 @@ My research interest includes: numerical integration, model order reduction, par
 - *2024.03*: &nbsp;🎉🎉 One paper is accepted by ISEDA2024
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><a href="https://2025.iccad.com/">ICCAD 2025</a></div><img src='images/moment-match.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><a href="https://2025.iccad.com/" style="color: white;">ICCAD 2025</a></div><img src='images/moment-match.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 EI-TR: A Versatile Exponential Integrator Framework for Transient Analysis of Generic Nonlinear Circuit(**Accepted**)
@@ -44,7 +44,7 @@ EI-TR: A Versatile Exponential Integrator Framework for Transient Analysis of Ge
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2025</div><img src='images/MF-MOR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><a href="https://2025.iccad.com/" style="color: white;">ICCAD 2025</a></div><img src='images/MF-MOR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 MF-MOR: Multi-Fidelity Model Order Reduction for Many-Port Linear Systems in Chip Power Modeling(**Accepted**)
@@ -59,7 +59,7 @@ Zhenjie Lu, **Hang Zhou**, Quan Chen
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2024</div><img src='images/EI-PIT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><a href="https://2024.iccad.com/" style="color: white;">ICCAD 2024</a></div><img src='images/EI-PIT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [EI-PIT: A Parallel-in-Time Exponential Integrator Method for Transient Linear Circuit Simulation](https://doi.org/10.1145/3676536.3676785)
@@ -74,7 +74,7 @@ Zhenjie Lu, **Hang Zhou**, Quan Chen
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISEDA 2024</div><img src='images/bbd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><a href="https://www.eda2.com/iseda2024/index.html" style="color: white;">ISEDA 2024</a></div><img src='images/bbd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Parallel Acceleration Technique based on Bordered Block Diagonal Matrix Reordering for Exponential Integrator Method](https://doi.org/10.1109/ISEDA62518.2024.10617631)
