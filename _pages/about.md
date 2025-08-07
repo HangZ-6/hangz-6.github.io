@@ -89,16 +89,26 @@ A Parallel Acceleration Technique based on Bordered Block Diagonal Matrix Reorde
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **First Prize**, Outstanding Research Assistant Scholarship, SUSTECH, *2023-2024*
+- **First Prize**, Outstanding Academic Scholarship, SUSTECH, *2023-2024*
+- **First Prize**, "Capstone Design" Project Exhibition, College of Engineering, SUSTECH, *2023* 
+- **Outstanding Undergraduate Thesis**, SUSTECH, *2023*
+- **Second Prize**, 12th National College Student Mathematics Competition (Non-Math Major), *2021*
+- **Second Prize**, Excellent Student Scholarship, SUSTECH, *2019-2020*
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - 2026.07 (expected)*, Master, School of Microelectronics, Southern University of Science and Technology
+- *2019.09 - 2023.07*, Undergraduate, School of Microelectronics, Southern University of Science and Technology
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Patents
+**Quan Chen**, Dongen Yang, **Hang Zhou**, et al.
+- Acceleration Method for Transient Circuit Simulation
+- Chinese Patent [CN117556767A](https://patents.google.com/patent/CN117556767A/en), **Filed**, February 2024. (*third inventor*)
+
+**Quan Chen**, **Hang Zhou**, et al.
+- Method and System for Large-Scale Linear Circuit Simulation
+- Chinese Patent [CN117077607A](https://patents.google.com/patent/CN117077607A/en), **Granted**, June 2024. (*second inventor*)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.01 - 2025.07*, [Shenzhen BTD Technology Co., Ltd.](https://www.btd.tech/), Shenzhen, China.
+- *2025.07 - 2025.08*, [Dongfeng Motor Co., Ltd. Dongfeng Nissan Passenger Vehicle Company](https://www.dongfeng-nissan.com.cn/), Guangzhou, China
