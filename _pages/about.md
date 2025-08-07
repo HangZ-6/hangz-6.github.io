@@ -17,11 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing a master's degree at Southern University of Science and Technology, focusing on research in simulation EDA algorithms, high-performance numerical computing, and parallel computing.
+I am a master's student at the [Southern University of Science and Technology (SUSTech, 南方科技大学)](https://www.sustech.edu.cn/en/), working with Prof. [**Quan Chen (陈全)**](https://faculty.sustech.edu.cn/?tagid=chenq3&iscss=1&snapid=1&orderby=date&go=2&lang=en) on EDA algorithms and high-performance numerical methods. My research focuses on simulation acceleration for integrated circuits, with emphasis on exponential integrators, parallel computing, and model order reduction.
 
-I obtained my Bachelor's degree in Microelectronics Science and Engineering from the school of microelectronics, Southern University of Science and Technology([南方科技大学深港微电子学院](https://sme.sustech.edu.cn/en)) and am now studying for a master's degree in Integrated Circuit Science and Engineering at the same institute, advised by Professor **Quan Chen**([陈全](https://faculty.sustech.edu.cn/?tagid=chenq3&iscss=1&snapid=1&orderby=date&go=2&lang=en)).
+I received my B.S. in Microelectronics Science and Engineering from the [School of Microelectronics, SUSTech (南方科技大学深港微电子学院)](https://sme.sustech.edu.cn/en), and I am currently pursuing an M.S. in Integrated Circuit Science and Engineering at the same institute.
 
-My research interest includes: numerical integration, model order reduction, parallel acceleration, and sparse matrix solvers.
+My core interests include:
+- Exponential integrator methods
+- Numerical stability and regularization
+- Parallel and distributed simulation frameworks
+- Model order reduction (MOR) for large-scale systems
+- Sparse matrix solvers and reordering techniques
 
 
 # 🔥 News
@@ -36,9 +41,9 @@ My research interest includes: numerical integration, model order reduction, par
 EI-TR: A Versatile Exponential Integrator Framework for Transient Analysis of Generic Nonlinear Circuit(**Accepted**)
 
 **Hang Zhou**, Zhenjie Lu, Quan Chen
-- Aime to accelerate nonlinear circuit simulation by simplifying the computation in Newton-Raphson iterations.
-- Propose a novel moment-matching strategy, achieving up to 23x speedup while improving numerical statbility, compared to traditional BDF method.
-- Suitable for generic circuit simulation and straightforward for integration to commercial production code.
+- Proposes a novel moment-matching strategy to reduce the cost of Newton-Raphson iterations.  
+- Achieves up to **23× speedup** with improved numerical stability compared to BDF methods.  
+- Easily integrates into commercial EDA tools.
 </div>
 </div>
 
@@ -51,9 +56,8 @@ MF-MOR: Multi-Fidelity Model Order Reduction for Many-Port Linear Systems in Chi
 
 Zhenjie Lu, **Hang Zhou**, Quan Chen
 
-- Extend traditional model order reduction to many-port linear systems using multi-fidelity modeling techniques.
-- Compensate the low fidelity reduced order model by Neural Network trained from high fidelity simulation results.
-- Achieve 27x speedup and Reduced model size by 47x on test cases with millons of nodes and thousands of ports, compared to traditional model order reduction techiniques.
+- Enhances traditional MOR with neural-network compensation trained on high-fidelity data.  
+- Achieves **27× speedup** and **47× model size reduction** for large many-port circuits. 
 </div>
 </div>
 
@@ -65,10 +69,9 @@ Zhenjie Lu, **Hang Zhou**, Quan Chen
 [EI-PIT: A Parallel-in-Time Exponential Integrator Method for Transient Linear Circuit Simulation](https://doi.org/10.1145/3676536.3676785)
 
 **Hang Zhou**, Quan Chen
-
-- Filled the blank of the parallel-in-time version of the exponential integrator method.
-- Decouple time dependence by leverage the superposition principle of linear systems and the scaling invarience of exponential integrator.
-- Achieve 2.5x speedup under 8 processes on benchmarks with millions of nodes.
+- Introduces the first parallel-in-time framework for exponential integrators.  
+- Leverages superposition and scaling invariance to decouple time dependency.  
+- Achieves **2.5× speedup** on 8-core machines.  
 </div>
 </div>
 
@@ -81,34 +84,37 @@ Zhenjie Lu, **Hang Zhou**, Quan Chen
 
 **Hang Zhou**, Quan Chen
 
-- Develop a paralle sparse matrix solver to accelerate forward/backward substitution based on BBD matrix reordering.
-- Multi-threaded and multi-processed versions achieve 3.3x speedup under 16 threads and 2.0x speedup under 8 processes, respectively.
-- The work was integrated to the commerical EDA tools of GuoWei FuXin Technology Co., Ltd.
+- Implements a parallel solver for sparse triangular systems using BBD reordering.  
+- Achieves **3.3× speedup** (OpenMP) and **2.0× speedup** (MPI).  
+- Integrated into GuoWei FuXin’s commercial EDA tools.  
 </div>
 </div>
 
 
 # 🎖 Honors and Awards
-- **First Prize**, Outstanding Research Assistant Scholarship, SUSTECH, *2023-2024*
-- **First Prize**, Outstanding Academic Scholarship, SUSTECH, *2023-2024*
-- **First Prize**, "Capstone Design" Project Exhibition, College of Engineering, SUSTECH, *2023* 
-- **Outstanding Undergraduate Thesis**, SUSTECH, *2023*
-- **Second Prize**, 12th National College Student Mathematics Competition (Non-Math Major), *2021*
-- **Second Prize**, Excellent Student Scholarship, SUSTECH, *2019-2020*
+- 🥇 Outstanding Research Assistant Scholarship, SUSTECH, *2023-2024*
+- 🥇 Outstanding Academic Scholarship, SUSTECH, *2023-2024*
+- 🥇 First Prize, "Capstone Design" Project Exhibition, College of Engineering, SUSTECH, *2023* 
+- 🏅 Outstanding Undergraduate Thesis, SUSTECH, *2023*
+- 🥈 Second Prize, 12th National College Student Mathematics Competition (Non-Math Major), *2021*
+- 🥈 Excellent Student Scholarship, SUSTECH, *2019-2020*
 
 # 📖 Educations
-- *2023.09 - 2026.07 (expected)*, Master, School of Microelectronics, Southern University of Science and Technology
-- *2019.09 - 2023.07*, Undergraduate, School of Microelectronics, Southern University of Science and Technology
+- **M.S.** in Integrated Circuit Science and Engineering  
+  *Southern University of Science and Technology* (2023.09 – 2026.07, expected)  
+- **B.S.** in Microelectronics Science and Engineering  
+  *Southern University of Science and Technology* (2019.09 – 2023.07)
 
 # 💡 Patents
-**Quan Chen**, Dongen Yang, **Hang Zhou**, et al.
-- Acceleration Method for Transient Circuit Simulation
-- Chinese Patent [CN117556767A](https://patents.google.com/patent/CN117556767A/en), **Filed**, February 2024. (*third inventor*)
+- **Method and System for Large-Scale Linear Circuit Simulation**  
+  Chinese Patent [CN117077607A](https://patents.google.com/patent/CN117077607A/en), **Granted**, June 2024 (*Second Inventor*)
 
-**Quan Chen**, **Hang Zhou**, et al.
-- Method and System for Large-Scale Linear Circuit Simulation
-- Chinese Patent [CN117077607A](https://patents.google.com/patent/CN117077607A/en), **Granted**, June 2024. (*second inventor*)
+- **Acceleration Method for Transient Circuit Simulation**  
+  Chinese Patent [CN117556767A](https://patents.google.com/patent/CN117556767A/en), **Filed**, February 2024 (*Third Inventor*)
+
 
 # 💻 Internships
-- *2025.01 - 2025.07*, [Shenzhen BTD Technology Co., Ltd.](https://www.btd.tech/), Shenzhen, China.
-- *2025.07 - 2025.08*, [Dongfeng Motor Co., Ltd. Dongfeng Nissan Passenger Vehicle Company](https://www.dongfeng-nissan.com.cn/), Guangzhou, China
+- **Shenzhen BTD Technology Co., Ltd.**  
+  Shenzhen, China (2025.01 – 2025.07)  
+- **Dongfeng Nissan Passenger Vehicle Company**  
+  Guangzhou, China (2025.07 – 2025.08)
