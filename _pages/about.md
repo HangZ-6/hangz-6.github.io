@@ -36,8 +36,8 @@ My research interest includes: numerical integration, model order reduction, par
 EI-TR: A Versatile Exponential Integrator Framework for Transient Analysis of Generic Nonlinear Circuit
 
 **Hang Zhou**, Zhenjie Lu, Quan Chen
-- Aimed to accelerate nonlinear circuit simulation by simplifying the computation in Newton-Raphson iterations.
-- Proposed a novel moment-matching strategy, achieving up to 23x speedup while improving numerical statbility, compared to traditional BDF method.
+- Aime to accelerate nonlinear circuit simulation by simplifying the computation in Newton-Raphson iterations.
+- Propose a novel moment-matching strategy, achieving up to 23x speedup while improving numerical statbility, compared to traditional BDF method.
 - Suitable for generic circuit simulation and straightforward for integration to commercial production code.
 </div>
 </div>
@@ -51,9 +51,39 @@ MF-MOR: Multi-Fidelity Model Order Reduction for Many-Port Linear Systems in Chi
 
 Zhenjie Lu, **Hang Zhou**, Quan Chen
 
-- Extended traditional model order reduction to many-port linear systems using multi-fidelity modeling techniques.
+- Extend traditional model order reduction to many-port linear systems using multi-fidelity modeling techniques.
 - Compensate the low fidelity reduced order model by Neural Network trained from high fidelity simulation results.
-- Achieved 27x speedup and Reduced model size by 47x on test cases with millons of nodes and thousands of ports, compared to traditional model order reduction techiniques.
+- Achieve 27x speedup and Reduced model size by 47x on test cases with millons of nodes and thousands of ports, compared to traditional model order reduction techiniques.
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2025</div><img src='images/EI-PIT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+EI-PIT: A Parallel-in-Time Exponential Integrator Method for Transient Linear Circuit Simulation
+
+**Hang Zhou**, Quan Chen
+
+- Filled the blank of the parallel-in-time version of the exponential integrator method.
+- Decouple time dependence by leverage the superposition principle of linear systems and the scaling invarience of exponential integrator.
+- Achieve 2.5x speedup under 8 processes on benchmarks with millions of nodes.
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2025</div><img src='images/bbd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+A Parallel Acceleration Technique based on Bordered Block Diagonal Matrix Reordering for Exponential Integrator Method
+
+**Hang Zhou**, Quan Chen
+
+- Develop a paralle sparse matrix solver to accelerate forward/backward substitution based on BBD matrix reordering.
+- Multi-threaded and multi-processed versions achieve 3.3x speedup under 16 threads and 2.0x speedup under 8 processes, respectively.
+- The work was integrated to the commerical EDA tools of GuoWei FuXin Technology Co., Ltd.
 </div>
 </div>
 
