@@ -119,6 +119,69 @@ Zhenjie Lu, **Hang Zhou**, Quan Chen
 - **B.S.** in Microelectronics Science and Engineering  
   *Southern University of Science and Technology* (2019.09 – 2023.07)
 
+# 📚 Course Projects
+
+<div class='project-box'>
+  <h3>Undergraduate Project 1 — Parameter Estimation in PDEs <span style="float:right;">Apr 2023 – May 2023</span></h3>
+  <ul>
+    <li><b>Description:</b> Estimated the parameter function <i>q</i> in the PDE <code>-div(q∇u)=f</code> using known <i>u</i> and <i>f</i> values on spatial grids.</li>
+    <li><b>Tools:</b> Matlab</li>
+  </ul>
+</div>
+
+<div class='project-box'>
+  <h3>Undergraduate Project 2 — Image Restoration via Tensor Decomposition <span style="float:right;">Apr 2023 – May 2023</span></h3>
+  <ul>
+    <li><b>Description:</b> Restored missing pixels in images with over 70% loss using tensor decomposition techniques.</li>
+    <li><b>Tools:</b> Python, NumPy</li>
+  </ul>
+</div>
+
+<div class='project-box'>
+  <h3>Undergraduate Project 3 — Implementation of Matrix Class <span style="float:right;">Nov 2022 – Dec 2022</span></h3>
+  <ul>
+    <li><b>Description:</b> Implemented a matrix class supporting addition, subtraction, and multiplication, with optimized memory access, SIMD, and multithreading performance.</li>
+    <li><b>Tools:</b> C/C++, OpenMP</li>
+  </ul>
+</div>
+
+<div class='project-box'>
+  <h3>Undergraduate Project 4 — Routing Visualization <span style="float:right;">Mar 2022 – Apr 2022</span></h3>
+  <ul>
+    <li><b>Description:</b> Minimized the square of half-perimeter wirelength to optimize and visualize the placement of logic gates during routing.</li>
+    <li><b>Tools:</b> C/C++, OpenGL, Qt</li>
+  </ul>
+</div>
+
+<div class='project-box'>
+  <h3>Undergraduate Project 5 — Fast Face Recognition using Tensor-Train Features <span style="float:right;">Apr 2021 – Jun 2021</span></h3>
+  <ul>
+    <li><b>Description:</b> Applied Tensor-Train decomposition for facial feature extraction, enabling fast face recognition.</li>
+    <li><b>Tools:</b> Python, OpenCV, Raspberry Pi</li>
+  </ul>
+</div>
+
+<div class='project-box'>
+  <h3>Undergraduate Project 6 — Image Classification using Tensor-Train Features <span style="float:right;">Sep 2020 – Dec 2020</span></h3>
+  <ul>
+    <li><b>Description:</b> Extracted image features via Tensor-Train decomposition and performed classification using the K-Nearest Neighbors algorithm.</li>
+    <li><b>Tools:</b> Python, NumPy, SciPy</li>
+  </ul>
+</div>
+
+<style>
+.project-box {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 1em;
+  margin-bottom: 1.2em;
+  background: #fafafa;
+}
+.project-box h3 {
+  margin-top: 0;
+}
+</style>
+
 # 💡 Patents
 - **Method and System for Large-Scale Linear Circuit Simulation**  
   Chinese Patent [CN117077607A](https://patents.google.com/patent/CN117077607A/en), **Granted**, June 2024 (*Second Inventor*)
