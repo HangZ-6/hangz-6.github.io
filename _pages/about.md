@@ -118,13 +118,14 @@ Zhenjie Lu, **Hang Zhou**, Quan Chen
   *Southern University of Science and Technology* (2023.09 – 2026.07, expected)  
 - **B.S.** in Microelectronics Science and Engineering  
   *Southern University of Science and Technology* (2019.09 – 2023.07)
+  GPA：3.7/4.0 (**Top 20%**)
 
 # 📚 Course Projects
 
 <div class='project-box'>
   <h3>Undergraduate Project 1 — Parameter Estimation in PDEs <span style="float:right;">Apr 2023 – May 2023</span></h3>
   <ul>
-    <li><b>Description:</b> Estimated the parameter function <i>q</i> in the PDE <code>-div(q∇u)=f</code> using known <i>u</i> and <i>f</i> values on spatial grids.</li>
+    <li><b>Description:</b> Implemented an inverse problem solver to estimate the spatially varying coefficient <i>q</i> in the PDE <code>-div(q∇u) = f</code> given discrete measurements of <i>u</i> and <i>f</i>. Utilized finite-difference discretization and iterative optimization to recover <i>q</i> under noise.</li>
     <li><b>Tools:</b> Matlab</li>
   </ul>
 </div>
@@ -132,7 +133,7 @@ Zhenjie Lu, **Hang Zhou**, Quan Chen
 <div class='project-box'>
   <h3>Undergraduate Project 2 — Image Restoration via Tensor Decomposition <span style="float:right;">Apr 2023 – May 2023</span></h3>
   <ul>
-    <li><b>Description:</b> Restored missing pixels in images with over 70% loss using tensor decomposition techniques.</li>
+    <li><b>Description:</b> Designed an image inpainting framework for cases with over 70% pixel loss. Modeled the image as a high-order tensor and applied CANDECOMP/PARAFAC decomposition to recover missing entries while preserving structural details.</li>
     <li><b>Tools:</b> Python, NumPy</li>
   </ul>
 </div>
@@ -140,7 +141,7 @@ Zhenjie Lu, **Hang Zhou**, Quan Chen
 <div class='project-box'>
   <h3>Undergraduate Project 3 — Implementation of Matrix Class <span style="float:right;">Nov 2022 – Dec 2022</span></h3>
   <ul>
-    <li><b>Description:</b> Implemented a matrix class supporting addition, subtraction, and multiplication, with optimized memory access, SIMD, and multithreading performance.</li>
+    <li><b>Description:</b> Developed a C++ matrix library supporting addition, subtraction, and multiplication. Optimized multiplication using loop tiling, SIMD vectorization, and OpenMP-based parallelism, achieving significant performance gains over naive implementations.</li>
     <li><b>Tools:</b> C/C++, OpenMP</li>
   </ul>
 </div>
@@ -148,7 +149,7 @@ Zhenjie Lu, **Hang Zhou**, Quan Chen
 <div class='project-box'>
   <h3>Undergraduate Project 4 — Routing Visualization <span style="float:right;">Mar 2022 – Apr 2022</span></h3>
   <ul>
-    <li><b>Description:</b> Minimized the square of half-perimeter wirelength to optimize and visualize the placement of logic gates during routing.</li>
+    <li><b>Description:</b> Implemented a placement and routing visualization tool for logic circuits. Formulated placement as an optimization problem minimizing the square of half-perimeter wirelength and rendered routing progress in real time with OpenGL.</li>
     <li><b>Tools:</b> C/C++, OpenGL, Qt</li>
   </ul>
 </div>
@@ -156,7 +157,7 @@ Zhenjie Lu, **Hang Zhou**, Quan Chen
 <div class='project-box'>
   <h3>Undergraduate Project 5 — Fast Face Recognition using Tensor-Train Features <span style="float:right;">Apr 2021 – Jun 2021</span></h3>
   <ul>
-    <li><b>Description:</b> Applied Tensor-Train decomposition for facial feature extraction, enabling fast face recognition.</li>
+    <li><b>Description:</b> Built a face recognition system that leverages Tensor-Train decomposition for compact feature extraction, enabling low-latency recognition on embedded devices. Deployed the system on a Raspberry Pi for real-time testing.</li>
     <li><b>Tools:</b> Python, OpenCV, Raspberry Pi</li>
   </ul>
 </div>
@@ -164,7 +165,7 @@ Zhenjie Lu, **Hang Zhou**, Quan Chen
 <div class='project-box'>
   <h3>Undergraduate Project 6 — Image Classification using Tensor-Train Features <span style="float:right;">Sep 2020 – Dec 2020</span></h3>
   <ul>
-    <li><b>Description:</b> Extracted image features via Tensor-Train decomposition and performed classification using the K-Nearest Neighbors algorithm.</li>
+    <li><b>Description:</b> Applied Tensor-Train decomposition to extract low-dimensional representations of images and classified them using the K-Nearest Neighbors (KNN) algorithm. Achieved competitive accuracy with reduced memory footprint.</li>
     <li><b>Tools:</b> Python, NumPy, SciPy</li>
   </ul>
 </div>
