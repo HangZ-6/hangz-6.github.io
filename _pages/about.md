@@ -35,6 +35,20 @@ My core interests include:
 - *2024.03*: &nbsp;🎉🎉 One paper is accepted by ISEDA2024
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><a href="https://ieee-ceda.org/publications/tcad" style="color: white;">TCAD</a></div><img src='images/implicit reg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+An Implicit Regularization Technique for Exponential Integrator in Generic Transient Circuit Simulation(**Under Review**)
+
+**Hang Zhou**, Zhenjie Lu, Quan Chen
+- Identified the fundamental cause of numerical instability in exponential integrator methods.  
+- Introduced *static mode synchronization* and *dynamic mode rectification*, enhancing robustness with negligible computational overhead.  
+- Validated on industry-scale benchmarks, demonstrating stable performance without sacrificing efficiency.  
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"><a href="https://2025.iccad.com/" style="color: white;">ICCAD 2025</a></div><img src='images/moment-match.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
