@@ -35,15 +35,15 @@ My core interests include:
 - *2024.03*: &nbsp;🎉🎉 One paper is accepted by ISEDA2024
 
 # 📝 Publications 
-[1] **Zhou, H.**, Lu, Z., & Chen, Q. An Implicit Regularization Technique for Exponential Integrator in Generic Transient Circuit Simulation. *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*(**Under Review**)
+[1] **Zhou, H.**, Lu, Z., &amp; Chen, Q. An Implicit Regularization Technique for Exponential Integrator in Generic Transient Circuit Simulation. *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*(**Under Review**)
 
-[2] **Zhou, H.**, Lu, Z., & Chen, Q. EI-TR: A Versatile Exponential Integrator Framework for Transient Analysis of Generic Nonlinear Circuit. In *Proceedings of the 44th IEEE/ACM International Conference on Computer-Aided Design*(**Accepted**)
+[2] **Zhou, H.**, Lu, Z., &amp; Chen, Q. EI-TR: A Versatile Exponential Integrator Framework for Transient Analysis of Generic Nonlinear Circuit. In *Proceedings of the 44th IEEE/ACM International Conference on Computer-Aided Design*(**Accepted**)
 
-[3] Lu, Z., **Zhou, H.**, & Chen, Q. MF-MOR: Multi-Fidelity Model Order Reduction for Many-Port Linear Systems in Chip Power Modeling. In *Proceedings of the 44th IEEE/ACM International Conference on Computer-Aided Design*(**Accepted**)
+[3] Lu, Z., **Zhou, H.**, &amp; Chen, Q. MF-MOR: Multi-Fidelity Model Order Reduction for Many-Port Linear Systems in Chip Power Modeling. In *Proceedings of the 44th IEEE/ACM International Conference on Computer-Aided Design*(**Accepted**)
 
-[4] **Zhou, H.**, & Chen, Q. (2024, October). EI-PIT: A Parallel-in-Time Exponential Integrator Method for Transient Linear Circuit Simulation. In *Proceedings of the 43rd IEEE/ACM International Conference on Computer-Aided Design* (pp. 1-8).
+[4] **Zhou, H.**, &amp; Chen, Q. (2024, October). EI-PIT: A Parallel-in-Time Exponential Integrator Method for Transient Linear Circuit Simulation. In *Proceedings of the 43rd IEEE/ACM International Conference on Computer-Aided Design* (pp. 1-8).
 
-[5] **Zhou, H.**, Yang, D., Lin, Y., Dai, Y., & Chen, Q. (2024, May). A Parallel Acceleration Technique based on Bordered Block Diagonal Matrix Reordering for Exponential Integrator Method. In *2024 2nd International Symposium of Electronics Design Automation (ISEDA)* (pp. 94-99). IEEE.
+[5] **Zhou, H.**, Yang, D., Lin, Y., Dai, Y., &amp; Chen, Q. (2024, May). A Parallel Acceleration Technique based on Bordered Block Diagonal Matrix Reordering for Exponential Integrator Method. In *2024 2nd International Symposium of Electronics Design Automation (ISEDA)* (pp. 94-99). IEEE.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"><a href="https://ieee-ceda.org/publications/tcad" style="color: white;">TCAD</a></div><img src='images/implicit reg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
