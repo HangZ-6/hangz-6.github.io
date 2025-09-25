@@ -30,9 +30,9 @@ My core interests include:
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 Received Postgraduate China National Scholarship
 - *2025.06*: &nbsp;🎉🎉 Two papers are accepted by ICCAD2025
 - *2024.06*: &nbsp;🎉🎉 One paper is accepted by ICCAD2024
-- *2024.03*: &nbsp;🎉🎉 One paper is accepted by ISEDA2024
 
 # 📝 Publications 
 [1] **Zhou, H.**, Lu, Z., Chen, Q. An Implicit Regularization Technique for Exponential Integrator in Generic Transient Circuit Simulation. *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*(**Under Review**)
@@ -116,6 +116,7 @@ Zhenjie Lu, **Hang Zhou**, Quan Chen
 
 
 # 🎖 Honors and Awards
+- 🏅 Postgraduate China National Scholarship (Top 0.2% in China), *2025*
 - 🥇 Outstanding Research Assistant Scholarship, SUSTECH, *2023-2024*
 - 🥇 Outstanding Academic Scholarship, SUSTECH, *2023-2024*
 - 🥇 First Prize, "Capstone Design" Project Exhibition, College of Engineering, SUSTECH, *2023* 
