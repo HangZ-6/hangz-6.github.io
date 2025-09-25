@@ -30,7 +30,7 @@ My core interests include:
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 Received Postgraduate China National Scholarship
+- *2025.09*: &nbsp;🎉🎉 Received China National Scholarship
 - *2025.06*: &nbsp;🎉🎉 Two papers are accepted by ICCAD2025
 - *2024.06*: &nbsp;🎉🎉 One paper is accepted by ICCAD2024
 
@@ -116,7 +116,7 @@ Zhenjie Lu, **Hang Zhou**, Quan Chen
 
 
 # 🎖 Honors and Awards
-- 🏅 Postgraduate China National Scholarship (Top 0.2% in China), *2025*
+- 🏅 **China National Scholarship** (Top 0.2% in China), *2025*
 - 🥇 Outstanding Research Assistant Scholarship, SUSTECH, *2023-2024*
 - 🥇 Outstanding Academic Scholarship, SUSTECH, *2023-2024*
 - 🥇 First Prize, "Capstone Design" Project Exhibition, College of Engineering, SUSTECH, *2023* 
