@@ -62,7 +62,7 @@ An Implicit Regularization Technique for Exponential Integrator in Generic Trans
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"><a href="https://2025.iccad.com/" style="color: white;">ICCAD 2025</a></div><img src='images/moment-match.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-EI-TR: A Versatile Exponential Integrator Framework for Transient Analysis of Generic Nonlinear Circuit(**Accepted**)
+[EI-TR: A Versatile Exponential Integrator Framework for Transient Analysis of Generic Nonlinear Circuit](https://ieeexplore.ieee.org/document/11240715/)
 
 **Hang Zhou**, Zhenjie Lu, Quan Chen
 - Proposes a novel moment-matching strategy to reduce the cost of Newton-Raphson iterations.  
@@ -76,7 +76,7 @@ EI-TR: A Versatile Exponential Integrator Framework for Transient Analysis of Ge
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"><a href="https://2025.iccad.com/" style="color: white;">ICCAD 2025</a></div><img src='images/MF-MOR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-MF-MOR: Multi-Fidelity Model Order Reduction for Many-Port Linear Systems in Chip Power Modeling(**Accepted**)
+[MF-MOR: Multi-Fidelity Model Order Reduction for Many-Port Linear Systems in Chip Power Modeling](https://ieeexplore.ieee.org/document/11240823)
 
 Zhenjie Lu, **Hang Zhou**, Quan Chen
 
